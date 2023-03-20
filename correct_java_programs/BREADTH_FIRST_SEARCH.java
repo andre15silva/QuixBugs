@@ -1,8 +1,6 @@
-package correct_java_programs;
+package java_programs;
 import java.util.*;
 import java.util.ArrayDeque;
-
-import java_programs.Node;
 
 /*
  * To change this template, choose Tools | Templates

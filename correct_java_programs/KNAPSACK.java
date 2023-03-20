@@ -1,7 +1,6 @@
-package correct_java_programs;
+package java_programs;
 import java.util.*;
 import java.lang.*;
-
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.

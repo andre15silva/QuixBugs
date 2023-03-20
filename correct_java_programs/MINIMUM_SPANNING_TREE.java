@@ -1,8 +1,5 @@
-package correct_java_programs;
+package java_programs;
 import java.util.*;
-
-import java_programs.Node;
-import java_programs.WeightedEdge;
 /**
  * Minimum spanning tree
  */

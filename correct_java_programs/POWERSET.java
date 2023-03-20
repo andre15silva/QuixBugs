@@ -1,5 +1,4 @@
-package correct_java_programs;
-
+package java_programs;
 import java.util.*;
 
 /*
@@ -40,5 +39,3 @@ public class POWERSET {
         }
     }
 }
-
-
